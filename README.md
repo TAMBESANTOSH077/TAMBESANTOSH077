@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on AI-powered Voice Agents and AI Chatbots.<br><br>🤝 I’m looking to collaborate on Generative AI and intelligent automation projects.<br><br>🌱 I’m currently learning LLMs, RAG, FastAPI, and conversational AI.<br><br>💬 Ask me about Python, AI/ML, Voice AI, Chatbots, and API integration.<br><br>⚡ Fun fact: I love building AI solutions that make human–technology interactions smarter and easier!
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Santosh Tambe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_santosh_tambe_1364) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Santosh Tambe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Santosh_tambe_07) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SANTOSH BUDDHIVANT TAMBE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tambesantosh9420032829@gmail.com) 
 
